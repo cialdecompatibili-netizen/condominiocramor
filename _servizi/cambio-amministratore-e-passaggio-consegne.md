@@ -6,13 +6,13 @@ ref: servizio-cambio-amministratore-e-passaggio-consegne
 icona: "🔄"
 immagine: "/assets/images/servizi/cambio-amministratore-e-passaggio-consegne.webp"
 excerpt: "Analizziamo il rendiconto, ti presentiamo un preventivo voce per voce e gestiamo il subentro senza buchi nella gestione."
-seo_title: "Cambio amministratore e passaggio di consegne | Roma"
-seo_description: "Analizziamo il rendiconto, ti presentiamo un preventivo voce per voce e gestiamo il subentro senza buchi nella gestione."
 faq:
   - q: "L'amministratore uscente deve consegnare i documenti?"
     a: "Sì: alla cessazione dell'incarico deve consegnare tutta la documentazione e svolgere le attività urgenti per evitare pregiudizi ai condomini (art. 1129 c.c.)."
   - q: "Come si cambia amministratore?"
     a: "L'assemblea può revocare e nominare con le maggioranze di legge: ti aiutiamo a preparare ordine del giorno e preventivo da presentare."
+seo_title: "Cambio amministratore di condominio"
+seo_description: "Vuoi cambiare amministratore di condominio? Analizziamo il rendiconto, ti diamo un preventivo voce per voce e gestiamo il passaggio di consegne."
 ---
 
 Cambiare amministratore non deve essere un salto nel buio. Partiamo dall'analisi dei documenti e da un preventivo chiaro, poi seguiamo il passaggio di consegne fino alla prima assemblea.

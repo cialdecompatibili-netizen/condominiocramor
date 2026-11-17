@@ -4,8 +4,8 @@ title: "Chi siamo"
 permalink: /chi-siamo/
 ref: azienda
 author_profile: false
-seo_description: "Chi siamo: studio di amministrazione condominiale a Roma, con conti chiari, assemblee preparate e un referente per ogni condominio."
-seo_title: "Chi siamo: amministrazione condominiale a Roma"
+seo_title: "Chi siamo: studio di amministrazione condominiale"
+seo_description: "Condominio Cramor è uno studio di amministrazione condominiale a Roma: come lavoriamo, con quali strumenti e cosa puoi aspettarti da noi."
 ---
 
 {% include render-blocks.html data="blocks_azienda" %}

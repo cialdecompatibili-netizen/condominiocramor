@@ -6,13 +6,13 @@ ref: servizio-sicurezza-adempimenti-e-privacy
 icona: "🛡️"
 immagine: "/assets/images/servizi/sicurezza-adempimenti-e-privacy.webp"
 excerpt: "Scadenzario di verifiche periodiche, certificati, polizze, privacy e videosorveglianza: il condominio in regola con ordine."
-seo_title: "Sicurezza, adempimenti e privacy | Roma"
-seo_description: "Scadenzario di verifiche periodiche, certificati, polizze, privacy e videosorveglianza: il condominio in regola con ordine."
 faq:
   - q: "Chi si occupa delle verifiche all'ascensore?"
     a: "Le verifiche periodiche vanno affidate a soggetti abilitati: l'amministratore le programma e conserva la documentazione."
   - q: "Si può installare una telecamera nelle parti comuni?"
     a: "Sì, con delibera dell'assemblea (art. 1122-ter c.c.) e nel rispetto delle norme sulla privacy: la valutiamo caso per caso."
+seo_title: "Sicurezza, adempimenti e privacy"
+seo_description: "Verifiche periodiche, certificati, polizze, privacy e videosorveglianza: uno scadenzario per tenere il condominio in regola, senza dimenticanze."
 ---
 
 Ascensori, impianti, polizze, dati dei condomini e telecamere: tanti adempimenti, tutti con una scadenza. Uno scadenzario ordinato evita sanzioni e sorprese.

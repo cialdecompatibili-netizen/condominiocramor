@@ -10,9 +10,9 @@ categories:
 header:
   teaser: /assets/images/posts/assemblea-di-condominio-convocazione-verbale-e-impugnazione.webp
 tr: tradotto
-seo_title: "Owners' meeting: notice, minutes and challenging a resolution"
-seo_description: "Notice, minutes and time limits to challenge a resolution: the essential rules in a few lines."
 tr_hash: 1ueewoi
+seo_title: "Owners' meeting: notice and minutes"
+seo_description: "Owners' meeting rules: notice, minutes and the time limit to challenge a resolution, explained in a few lines."
 ---
 <img src="{{ '/assets/images/posts/assemblea-di-condominio-convocazione-verbale-e-impugnazione.webp' | relative_url }}" alt="Owners' meeting: notice, minutes and challenging a resolution" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

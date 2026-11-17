@@ -8,13 +8,13 @@ immagine: "/assets/images/servizi/cambio-amministratore-e-passaggio-consegne.web
 lang: en
 locale: en
 excerpt: "We review the latest statement, give you an item-by-item quote and manage the takeover with no gaps in management."
-seo_title: "Changing manager and handover | Rome"
-seo_description: "We review the latest statement, give you an item-by-item quote and manage the takeover with no gaps in management."
 faq:
   - q: "Must the outgoing manager hand over the documents?"
     a: "Yes: when the mandate ends he or she must hand over all documents and perform urgent tasks to avoid harm to owners (art. 1129 of the Italian Civil Code)."
   - q: "How do we change manager?"
     a: "The meeting can dismiss and appoint with the majorities set by law: we help you prepare the agenda and the quote to present."
+seo_title: "Changing condominium manager"
+seo_description: "Thinking of changing condominium manager? We review the latest statement, give you an item-by-item quote and manage the handover without gaps."
 ---
 
 Changing manager should not be a leap in the dark. We start from the documents and a clear quote, then follow the handover until the first meeting.

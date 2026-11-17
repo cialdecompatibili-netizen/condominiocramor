@@ -10,9 +10,9 @@ categories:
 header:
   teaser: /assets/images/posts/come-scegliere-l-impresa-per-i-lavori-condominiali.webp
 tr: tradotto
-seo_title: "How to choose a contractor for condominium works"
-seo_description: "Quotes compared, documents to request and the contract: a checklist for the meeting."
 tr_hash: 1fe9d8u
+seo_title: "How to choose a condominium contractor"
+seo_description: "How to choose a contractor for condominium works: comparing quotes, documents to request and the contract. A checklist for the meeting."
 ---
 <img src="{{ '/assets/images/posts/come-scegliere-l-impresa-per-i-lavori-condominiali.webp' | relative_url }}" alt="How to choose a contractor for condominium works" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

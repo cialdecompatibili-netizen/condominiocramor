@@ -9,8 +9,8 @@ categories:
   - Guide
 header:
   teaser: /assets/images/posts/lavori-urgenti-in-condominio-chi-decide.webp
-seo_title: "Lavori urgenti in condominio: chi decide e cosa si può fare subito"
-seo_description: "Quando l'amministratore può intervenire senza assemblea e come informare i condomini."
+seo_title: "Lavori urgenti in condominio: chi decide"
+seo_description: "Lavori urgenti in condominio: quando l'amministratore può intervenire senza assemblea, cosa può fare subito e come informare i condomini."
 ---
 <img src="{{ '/assets/images/posts/lavori-urgenti-in-condominio-chi-decide.webp' | relative_url }}" alt="Lavori urgenti in condominio: chi decide e cosa si può fare subito" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

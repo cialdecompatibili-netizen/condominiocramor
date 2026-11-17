@@ -4,12 +4,12 @@ title: "Services"
 permalink: /en/services/
 ref: servizi
 author_profile: false
-seo_title: "Condominium administration services in Rome"
-seo_description: "Condominium administration in Rome: accounting, owners' meetings, online area, debt recovery, maintenance, tax bonuses, safety and changing manager."
 lang: en
 locale: en
 tr: tradotto
 tr_hash: smpakb
+seo_title: "Condominium administration services"
+seo_description: "Condominium services in Rome: day-to-day administration, annual accounts, owners' meetings, maintenance, extraordinary works and unpaid dues recovery."
 ---
 
 From ordinary administration to extraordinary works: a single office for your building, with clear accounts and a reachable point of contact.

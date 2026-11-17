@@ -6,13 +6,13 @@ ref: servizio-area-riservata-condomini-e-app
 icona: "📱"
 immagine: "/assets/images/servizi/area-riservata-condomini-e-app.webp"
 excerpt: "Un'area online per consultare documenti, estratti conto e comunicazioni e per segnalare problemi in modo semplice, anche da smartphone."
-seo_title: "Area riservata condomini e segnalazioni online | Roma"
-seo_description: "Un'area online per consultare documenti, estratti conto e comunicazioni e per segnalare problemi in modo semplice, anche da smartphone."
 faq:
   - q: "L'area riservata è obbligatoria?"
     a: "No, ma facilita trasparenza e comunicazione. Ogni condomino vede solo ciò che lo riguarda."
   - q: "I miei dati sono protetti?"
     a: "L'accesso è personale e protetto da credenziali; i dati sono trattati secondo la normativa sulla privacy."
+seo_title: "Area online per condomini e segnalazioni"
+seo_description: "Area riservata per i condomini: documenti, estratti conto e comunicazioni sempre consultabili e segnalazione dei problemi anche da smartphone."
 ---
 
 Molte richieste dei condomini sono domande sui documenti (dov'è il verbale? quanto devo versare?). Un'area riservata le risolve in pochi clic e libera tempo per gestire davvero il condominio.

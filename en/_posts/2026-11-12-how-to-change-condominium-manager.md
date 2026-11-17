@@ -10,9 +10,9 @@ categories:
 header:
   teaser: /assets/images/posts/come-cambiare-amministratore-di-condominio.webp
 tr: tradotto
-seo_title: "How to change the condominium manager, step by step"
-seo_description: "Dismissal, new appointment and handover: what to do, in which order and which documents to ask for."
 tr_hash: 4vozvh
+seo_title: "How to change condominium manager"
+seo_description: "How to change condominium manager: dismissal, new appointment and handover, in which order to proceed and which documents to ask for."
 ---
 <img src="{{ '/assets/images/posts/come-cambiare-amministratore-di-condominio.webp' | relative_url }}" alt="How to change the condominium manager, step by step" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

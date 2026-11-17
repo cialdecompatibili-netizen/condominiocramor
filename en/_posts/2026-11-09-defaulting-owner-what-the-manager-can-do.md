@@ -10,9 +10,9 @@ categories:
 header:
   teaser: /assets/images/posts/condomino-moroso-cosa-puo-fare-l-amministratore.webp
 tr: tradotto
-seo_title: "Defaulting owner: what the manager can do"
-seo_description: "Reminders, payment orders and suspension of common services: the tools available."
 tr_hash: u66bzu
+seo_title: "Defaulting owner: what the manager can do"
+seo_description: "Defaulting owner: reminders, payment orders and suspension of common services. The tools available to the condominium manager."
 ---
 <img src="{{ '/assets/images/posts/condomino-moroso-cosa-puo-fare-l-amministratore.webp' | relative_url }}" alt="Defaulting owner: what the manager can do" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

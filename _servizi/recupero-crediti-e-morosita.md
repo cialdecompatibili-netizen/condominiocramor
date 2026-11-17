@@ -6,13 +6,13 @@ ref: servizio-recupero-crediti-e-morosita
 icona: "💶"
 immagine: "/assets/images/servizi/recupero-crediti-e-morosita.webp"
 excerpt: "Solleciti, piani di rientro e azioni legali contro le rate non pagate, per non far gravare i morosi sugli altri condomini."
-seo_title: "Recupero crediti e gestione morosità | Roma"
-seo_description: "Solleciti, piani di rientro e azioni legali contro le rate non pagate, per non far gravare i morosi sugli altri condomini."
 faq:
   - q: "L'amministratore può agire contro i morosi senza assemblea?"
     a: "Sì: può ottenere un decreto di ingiunzione immediatamente esecutivo senza autorizzazione dell'assemblea (art. 63 disp. att. c.c.)."
   - q: "Cosa succede dopo sei mesi di morosità?"
     a: "L'amministratore può sospendere il condomino moroso dall'uso dei servizi comuni suscettibili di godimento separato (art. 63 disp. att. c.c.)."
+seo_title: "Recupero crediti e morosità condominiale"
+seo_description: "Morosità in condominio: solleciti, piani di rientro e azioni legali sulle rate non pagate, perché i morosi non pesino sugli altri condomini."
 ---
 
 Quando alcuni non pagano, il peso ricade su chi paga e sui fornitori. Intervenire presto, con comunicazioni formali e, se serve, un legale, tutela la cassa del condominio.

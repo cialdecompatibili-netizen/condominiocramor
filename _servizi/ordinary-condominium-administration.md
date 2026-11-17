@@ -8,13 +8,13 @@ immagine: "/assets/images/servizi/amministrazione-ordinaria-del-condominio.webp"
 lang: en
 locale: en
 excerpt: "Day-to-day management of the building: registers, collections, payments, suppliers, contracts and contact with the owners, with a reachable point of contact."
-seo_title: "Ordinary condominium administration | Rome"
-seo_description: "Day-to-day management of the building: registers, collections, payments, suppliers, contracts and contact with the owners, with a reachable point of contact."
 faq:
   - q: "When is a manager mandatory?"
     a: "When there are more than eight owners the owners' meeting must appoint one (art. 1129 of the Italian Civil Code). Below that it is optional, but often worthwhile."
   - q: "How long is the mandate?"
     a: "One year, renewable for the same period. The fee must be itemised when the manager is appointed, otherwise the appointment is void."
+seo_title: "Condominium management in Rome"
+seo_description: "Day-to-day condominium administration in Rome: registers, collections, payments and suppliers handled with a contact you can always reach. Ask for a quote."
 ---
 
 The manager looks after common areas, collects contributions, pays suppliers and enforces the building rules. Well-organised ordinary management avoids delays, disputes and unexpected costs.

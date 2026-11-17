@@ -9,8 +9,8 @@ categories:
   - Guide
 header:
   teaser: /assets/images/posts/come-scegliere-l-impresa-per-i-lavori-condominiali.webp
-seo_title: "Come scegliere l'impresa per i lavori condominiali"
-seo_description: "Preventivi a confronto, documenti da chiedere e contratto: una checklist per l'assemblea."
+seo_title: "Come scegliere l'impresa per i lavori"
+seo_description: "Come scegliere l'impresa per i lavori in condominio: confronto dei preventivi, documenti da chiedere e contratto. Una checklist da portare in assemblea."
 ---
 <img src="{{ '/assets/images/posts/come-scegliere-l-impresa-per-i-lavori-condominiali.webp' | relative_url }}" alt="Come scegliere l'impresa per i lavori condominiali" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

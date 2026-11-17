@@ -6,13 +6,13 @@ ref: servizio-assemblee-condominiali-anche-online
 icona: "🗣️"
 immagine: "/assets/images/servizi/assemblee-condominiali-anche-online.webp"
 excerpt: "Convocazione, ordine del giorno, deleghe, verbale ed esecuzione delle delibere, con la possibilità di riunirsi in videoconferenza."
-seo_title: "Assemblee condominiali, anche online | Roma"
-seo_description: "Convocazione, ordine del giorno, deleghe, verbale ed esecuzione delle delibere, con la possibilità di riunirsi in videoconferenza."
 faq:
   - q: "Con quanto preavviso va convocata l'assemblea?"
     a: "L'avviso di convocazione va comunicato almeno cinque giorni prima della data fissata (art. 66 disp. att. c.c.)."
   - q: "Si può fare l'assemblea online?"
     a: "A determinate condizioni sì, ad esempio se il regolamento la prevede o se l'assemblea la autorizza: lo verifichiamo caso per caso."
+seo_title: "Assemblee condominiali, anche online"
+seo_description: "Convocazione, ordine del giorno, deleghe e verbale: organizziamo le assemblee di condominio, anche in videoconferenza, e seguiamo le delibere."
 ---
 
 L'assemblea è il luogo dove i condomini decidono. Una buona preparazione (documenti chiari, ordine del giorno preciso, preventivi a confronto) rende le riunioni più brevi e le decisioni più solide.

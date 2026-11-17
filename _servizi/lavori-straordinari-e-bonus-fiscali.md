@@ -6,13 +6,13 @@ ref: servizio-lavori-straordinari-e-bonus-fiscali
 icona: "🧾"
 immagine: "/assets/images/servizi/lavori-straordinari-e-bonus-fiscali.webp"
 excerpt: "Dalla delibera alla documentazione per le detrazioni: coordiniamo tecnici e commercialisti per lavori straordinari in regola."
-seo_title: "Lavori straordinari e bonus fiscali | Roma"
-seo_description: "Dalla delibera alla documentazione per le detrazioni: coordiniamo tecnici e commercialisti per lavori straordinari in regola."
 faq:
   - q: "Le detrazioni per i lavori in condominio sono sempre uguali?"
     a: "No: aliquote, limiti e scadenze cambiano nel tempo. Prima di ogni delibera verifichiamo le regole in vigore con un tecnico o un commercialista."
   - q: "Servono maggioranze particolari per i lavori straordinari?"
     a: "Dipende dal tipo di intervento: l'assemblea delibera con le maggioranze dell'art. 1136 c.c. e delle norme speciali previste per alcuni lavori."
+seo_title: "Lavori straordinari e bonus fiscali"
+seo_description: "Lavori straordinari in condominio: dalla delibera alla documentazione per le detrazioni, coordiniamo tecnici e commercialisti perché sia tutto in regola."
 ---
 
 Facciate, cappotto, impianti, ascensori: i lavori straordinari richiedono delibere corrette, documenti in ordine e attenzione alle agevolazioni fiscali in vigore, che cambiano nel tempo.

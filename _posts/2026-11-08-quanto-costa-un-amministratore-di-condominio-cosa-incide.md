@@ -9,8 +9,8 @@ categories:
   - Guide
 header:
   teaser: /assets/images/posts/quanto-costa-un-amministratore-di-condominio-cosa-incide.webp
-seo_title: "Quanto costa un amministratore di condominio: cosa incide sul compenso"
-seo_description: "Dimensioni, servizi inclusi ed extra: come leggere un preventivo di amministrazione."
+seo_title: "Quanto costa un amministratore"
+seo_description: "Quanto costa un amministratore di condominio? Cosa incide sul compenso: dimensioni, servizi inclusi ed extra, e come leggere un preventivo."
 ---
 <img src="{{ '/assets/images/posts/quanto-costa-un-amministratore-di-condominio-cosa-incide.webp' | relative_url }}" alt="Quanto costa un amministratore di condominio: cosa incide sul compenso" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

@@ -6,13 +6,13 @@ ref: servizio-amministrazione-ordinaria-del-condominio
 icona: "🏢"
 immagine: "/assets/images/servizi/amministrazione-ordinaria-del-condominio.webp"
 excerpt: "Gestione quotidiana del condominio: registri, incassi, pagamenti, fornitori, contratti e rapporto con i condomini, con un referente sempre raggiungibile."
-seo_title: "Amministrazione ordinaria del condominio | Roma"
-seo_description: "Gestione quotidiana del condominio: registri, incassi, pagamenti, fornitori, contratti e rapporto con i condomini, con un referente sempre raggiungibile."
 faq:
   - q: "Quando è obbligatorio nominare un amministratore?"
     a: "Quando i condomini sono più di otto l'assemblea deve nominarlo (art. 1129 c.c.). Sotto questa soglia la nomina è facoltativa, ma spesso conviene."
   - q: "Quanto dura l'incarico?"
     a: "Un anno, rinnovabile per uguale durata (art. 1129 c.c.). All'atto della nomina il compenso va indicato voce per voce, altrimenti la nomina è nulla."
+seo_title: "Amministrazione condominiale a Roma"
+seo_description: "Amministrazione ordinaria del condominio a Roma: registri, incassi, pagamenti e fornitori gestiti con un referente sempre raggiungibile. Chiedi un preventivo."
 ---
 
 L'amministratore cura le parti comuni, riscuote i contributi, paga i fornitori e fa rispettare il regolamento. Una gestione ordinaria ben organizzata evita ritardi, contestazioni e spese impreviste.

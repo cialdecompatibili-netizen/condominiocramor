@@ -6,7 +6,7 @@ permalink: /blog/
 author_profile: false
 classes: wide
 share: false
-seo_title: "Blog: guide su amministrazione, assemblee e rendiconto condominiale"
-seo_description: "Guide pratiche su amministratore, assemblea, rendiconto, morosità e lavori in condominio, a cura di Condominio Cramor."
+seo_title: "Blog sul condominio: guide pratiche"
+seo_description: "Guide pratiche per condomini e amministratori: rendiconto, assemblee, morosità, lavori e cambio amministratore, spiegati in modo chiaro."
 ---
 {% include lista-categoria.html %}

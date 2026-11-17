@@ -8,13 +8,13 @@ immagine: "/assets/images/servizi/contabilita-e-rendiconto-trasparente.webp"
 lang: en
 locale: en
 excerpt: "Budget, annual statement, expense allocation and instalment plan that are clear, with documents available to every owner."
-seo_title: "Transparent accounting and annual statement | Rome"
-seo_description: "Budget, annual statement, expense allocation and instalment plan that are clear, with documents available to every owner."
 faq:
   - q: "Can I see the accounting documents?"
     a: "Yes: owners can inspect the supporting documents and get copies at their own expense (art. 1130-bis of the Italian Civil Code)."
   - q: "When must the statement be approved?"
     a: "The manager must call the meeting to approve it within 180 days of the end of the financial year (art. 1130)."
+seo_title: "Clear condominium accounts"
+seo_description: "Budget, annual statement, expense allocation and instalment plan that are clear, with documents available to every owner."
 ---
 
 The annual statement must be clear and verifiable. Every owner should understand where the building's money goes: we prepare tidy documents with supporting papers and explained allocations.

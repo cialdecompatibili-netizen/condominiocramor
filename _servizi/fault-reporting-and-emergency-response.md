@@ -8,13 +8,13 @@ immagine: "/assets/images/servizi/segnalazione-guasti-e-pronto-intervento.webp"
 lang: en
 locale: en
 excerpt: "Clear channels to report problems, quick handling and the right suppliers for lifts, systems, leaks and common areas."
-seo_title: "Fault reporting and emergency response | Rome"
-seo_description: "Clear channels to report problems, quick handling and the right suppliers for lifts, systems, leaks and common areas."
 faq:
   - q: "Can the manager order urgent works without a meeting?"
     a: "Yes, for urgent extraordinary maintenance, but he or she must report it to the next meeting (art. 1135 of the Italian Civil Code)."
   - q: "What do I do if there is a serious fault?"
     a: "Report it straight away through the office channels, with a photo if possible: we activate the supplier and keep owners updated."
+seo_title: "Fault reporting and emergency response"
+seo_description: "Clear channels to report faults, quick handling and the right suppliers for lifts, systems, leaks and common areas."
 ---
 
 When something breaks in the common areas, speed makes the difference. The manager activates the right supplier and keeps owners informed.

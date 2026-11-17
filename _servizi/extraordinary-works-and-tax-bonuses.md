@@ -8,13 +8,13 @@ immagine: "/assets/images/servizi/lavori-straordinari-e-bonus-fiscali.webp"
 lang: en
 locale: en
 excerpt: "From the resolution to the paperwork for deductions: we coordinate technicians and accountants for extraordinary works done properly."
-seo_title: "Extraordinary works and tax bonuses | Rome"
-seo_description: "From the resolution to the paperwork for deductions: we coordinate technicians and accountants for extraordinary works done properly."
 faq:
   - q: "Are the deductions for building works always the same?"
     a: "No: rates, limits and deadlines change. Before each resolution we check the current rules with a technician or an accountant."
   - q: "Are special majorities needed for extraordinary works?"
     a: "It depends on the type of work: the meeting decides with the majorities set by art. 1136 of the Italian Civil Code and special rules for some works."
+seo_title: "Extraordinary works and tax bonuses"
+seo_description: "Extraordinary works in a condominium: from the resolution to the paperwork for tax deductions, we coordinate technicians and accountants."
 ---
 
 Facades, insulation, systems, lifts: extraordinary works need correct resolutions, tidy documents and attention to the tax incentives in force, which change over time.

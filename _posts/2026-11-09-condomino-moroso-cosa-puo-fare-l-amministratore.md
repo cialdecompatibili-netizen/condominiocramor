@@ -10,7 +10,7 @@ categories:
 header:
   teaser: /assets/images/posts/condomino-moroso-cosa-puo-fare-l-amministratore.webp
 seo_title: "Condomino moroso: cosa può fare l'amministratore"
-seo_description: "Solleciti, decreto ingiuntivo e sospensione dei servizi comuni: gli strumenti a disposizione."
+seo_description: "Condomino moroso: solleciti, decreto ingiuntivo e sospensione dei servizi comuni. Gli strumenti a disposizione dell'amministratore."
 ---
 <img src="{{ '/assets/images/posts/condomino-moroso-cosa-puo-fare-l-amministratore.webp' | relative_url }}" alt="Condomino moroso: cosa può fare l'amministratore" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

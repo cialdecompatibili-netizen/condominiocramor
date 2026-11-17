@@ -4,8 +4,8 @@ title: "Servizi"
 permalink: /servizi/
 ref: servizi
 author_profile: false
-seo_title: "Servizi di amministrazione condominiale a Roma"
-seo_description: "Amministrazione condominiale a Roma: contabilità, assemblee, area online, recupero crediti, manutenzioni, bonus fiscali, sicurezza e cambio amministratore."
+seo_title: "Servizi di amministrazione condominiale"
+seo_description: "Servizi per il condominio a Roma: amministrazione ordinaria, rendiconto, assemblee, manutenzioni, lavori straordinari e recupero crediti."
 ---
 
 Dall'amministrazione ordinaria ai lavori straordinari: un unico studio per il tuo condominio, con conti chiari e un referente sempre raggiungibile.

@@ -6,13 +6,13 @@ ref: servizio-gestione-manutenzioni-appalti-e-fornitori
 icona: "🧱"
 immagine: "/assets/images/servizi/gestione-manutenzioni-appalti-e-fornitori.webp"
 excerpt: "Più preventivi a confronto, contratti scritti e controllo dei lavori su facciate, tetti, impianti e parti comuni."
-seo_title: "Manutenzioni, appalti e fornitori | Roma"
-seo_description: "Più preventivi a confronto, contratti scritti e controllo dei lavori su facciate, tetti, impianti e parti comuni."
 faq:
   - q: "Chi sceglie l'impresa?"
     a: "La scelta spetta all'assemblea, su proposta dell'amministratore che raccoglie e confronta i preventivi."
   - q: "Chi controlla i lavori?"
     a: "L'amministratore segue il cantiere e, quando serve, si affida a un tecnico abilitato per direzione lavori e collaudo."
+seo_title: "Manutenzioni e appalti condominiali"
+seo_description: "Manutenzioni condominiali a Roma: più preventivi a confronto, contratti scritti e controllo dei lavori su facciate, tetti, impianti e parti comuni."
 ---
 
 Ci pensiamo noi a raccogliere i preventivi, a confrontarli voce per voce e a presentarli in assemblea. Le imprese le scegli tu con i condomini, noi controlliamo che i lavori siano fatti come promesso.

@@ -6,13 +6,13 @@ ref: servizio-contabilita-e-rendiconto-trasparente
 icona: "📊"
 immagine: "/assets/images/servizi/contabilita-e-rendiconto-trasparente.webp"
 excerpt: "Bilancio preventivo, rendiconto annuale, riparto spese e piano rate chiari, con i documenti a disposizione di ogni condomino."
-seo_title: "Contabilità e rendiconto trasparente | Roma"
-seo_description: "Bilancio preventivo, rendiconto annuale, riparto spese e piano rate chiari, con i documenti a disposizione di ogni condomino."
 faq:
   - q: "Posso vedere i documenti contabili?"
     a: "Sì: i condomini possono prendere visione dei documenti giustificativi di spesa e ottenerne copia a proprie spese (art. 1130-bis c.c.)."
   - q: "Entro quando va approvato il rendiconto?"
     a: "L'amministratore deve convocare l'assemblea per approvarlo entro 180 giorni dalla chiusura dell'esercizio (art. 1130 c.c.)."
+seo_title: "Rendiconto condominiale trasparente"
+seo_description: "Bilancio preventivo, rendiconto annuale, riparto spese e piano rate chiari, con i documenti a disposizione di ogni condomino."
 ---
 
 Il rendiconto deve essere chiaro e verificabile. Ogni condomino deve poter capire dove vanno i soldi del condominio: per questo prepariamo documenti ordinati, con giustificativi e riparti spiegati.

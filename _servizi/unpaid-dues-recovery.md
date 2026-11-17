@@ -8,13 +8,13 @@ immagine: "/assets/images/servizi/recupero-crediti-e-morosita.webp"
 lang: en
 locale: en
 excerpt: "Reminders, repayment plans and legal action on unpaid instalments, so defaulters do not burden the other owners."
-seo_title: "Unpaid dues recovery | Rome"
-seo_description: "Reminders, repayment plans and legal action on unpaid instalments, so defaulters do not burden the other owners."
 faq:
   - q: "Can the manager act against defaulters without a meeting?"
     a: "Yes: an immediately enforceable payment order can be obtained without the meeting's authorisation (art. 63 of the implementing provisions)."
   - q: "What happens after six months of arrears?"
     a: "The manager may suspend the defaulting owner from separable common services (art. 63 of the implementing provisions)."
+seo_title: "Unpaid dues recovery"
+seo_description: "Unpaid condominium dues: reminders, repayment plans and legal action, so that defaulters do not burden the other owners."
 ---
 
 When some owners do not pay, the burden falls on those who do and on suppliers. Acting early, with formal notices and a lawyer if needed, protects the building's funds.

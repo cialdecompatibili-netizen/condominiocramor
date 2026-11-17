@@ -8,13 +8,13 @@ immagine: "/assets/images/servizi/area-riservata-condomini-e-app.webp"
 lang: en
 locale: en
 excerpt: "An online area to read documents, statements and notices and to report problems easily, also from a smartphone."
-seo_title: "Residents' area and online reporting | Rome"
-seo_description: "An online area to read documents, statements and notices and to report problems easily, also from a smartphone."
 faq:
   - q: "Is a residents' area mandatory?"
     a: "No, but it improves transparency and communication. Each owner only sees what concerns them."
   - q: "Is my data protected?"
     a: "Access is personal and password-protected; data is handled in line with privacy law."
+seo_title: "Residents' area and online reporting"
+seo_description: "An online area for owners: documents, statements and notices at hand, and an easy way to report problems, also from a smartphone."
 ---
 
 Many owner requests are about documents (where are the minutes? how much do I owe?). A residents' area answers them in a few clicks and frees time to actually manage the building.

@@ -4,12 +4,12 @@ title: "Residents' area"
 permalink: /en/residents-area/
 ref: area
 author_profile: false
-seo_title: "Residents' area and online reporting"
-seo_description: "An online area to read documents, statements and notices and to report problems easily, also from a smartphone."
 lang: en
 locale: en
 tr: tradotto
 tr_hash: dkb5ub
+seo_title: "Residents' area for condominium owners"
+seo_description: "The online area for owners: documents, statements and notices at hand, and an easy way to report problems, also from a smartphone."
 ---
 
 An online area to read documents, statements and notices and to report problems easily, also from a smartphone.

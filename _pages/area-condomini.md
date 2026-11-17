@@ -4,8 +4,8 @@ title: "Area condomini"
 permalink: /area-condomini/
 ref: area
 author_profile: false
-seo_title: "Area riservata condomini e segnalazioni online"
-seo_description: "Un'area online per consultare documenti, estratti conto e comunicazioni e per segnalare problemi in modo semplice, anche da smartphone."
+seo_title: "Area riservata per i condomini"
+seo_description: "L'area online per i condomini: documenti, estratti conto e comunicazioni a portata di mano e segnalazione dei problemi anche da smartphone."
 ---
 
 Un'area online per consultare documenti, estratti conto e comunicazioni e per segnalare problemi in modo semplice, anche da smartphone.

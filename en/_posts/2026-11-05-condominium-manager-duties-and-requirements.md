@@ -10,9 +10,9 @@ categories:
 header:
   teaser: /assets/images/posts/amministratore-di-condominio-obblighi-e-requisiti.webp
 tr: tradotto
-seo_title: "Condominium manager: duties, requirements and bank account"
-seo_description: "What a manager must do and what you can expect: registers, bank account, annual statement."
 tr_hash: war0n4
+seo_title: "Condominium manager: duties"
+seo_description: "What a condominium manager must do: requirements, registers, dedicated bank account and annual statement. What you can expect and ask for."
 ---
 <img src="{{ '/assets/images/posts/amministratore-di-condominio-obblighi-e-requisiti.webp' | relative_url }}" alt="Condominium manager: duties, requirements and bank account" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

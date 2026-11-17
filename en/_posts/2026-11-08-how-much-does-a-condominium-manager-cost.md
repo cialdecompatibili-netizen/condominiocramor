@@ -10,9 +10,9 @@ categories:
 header:
   teaser: /assets/images/posts/quanto-costa-un-amministratore-di-condominio-cosa-incide.webp
 tr: tradotto
-seo_title: "How much does a condominium manager cost: what affects the fee"
-seo_description: "Size, included services and extras: how to read an administration quote."
 tr_hash: 1icqyog
+seo_title: "How much does a condominium manager cost"
+seo_description: "How much does a condominium manager cost? What affects the fee: building size, included services and extras, and how to read a quote."
 ---
 <img src="{{ '/assets/images/posts/quanto-costa-un-amministratore-di-condominio-cosa-incide.webp' | relative_url }}" alt="How much does a condominium manager cost: what affects the fee" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

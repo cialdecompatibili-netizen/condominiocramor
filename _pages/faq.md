@@ -5,7 +5,7 @@ permalink: /faq/
 ref: faq
 author_profile: false
 seo_title: "Domande frequenti sul condominio"
-seo_description: "Risposte su amministratore, assemblea, rendiconto, morosità, lavori urgenti e cambio amministratore."
+seo_description: "Le risposte alle domande più frequenti su amministratore, assemblee, rendiconto, morosità e lavori in condominio."
 ---
 
 Le risposte alle domande più frequenti su amministrazione, assemblee, rendiconto, morosi e lavori in condominio. Per il tuo caso specifico, scrivici.

@@ -6,13 +6,13 @@ ref: servizio-segnalazione-guasti-e-pronto-intervento
 icona: "🛠️"
 immagine: "/assets/images/servizi/segnalazione-guasti-e-pronto-intervento.webp"
 excerpt: "Canali chiari per segnalare un problema, presa in carico rapida e fornitori giusti per ascensore, impianti, perdite e parti comuni."
-seo_title: "Segnalazione guasti e pronto intervento | Roma"
-seo_description: "Canali chiari per segnalare un problema, presa in carico rapida e fornitori giusti per ascensore, impianti, perdite e parti comuni."
 faq:
   - q: "L'amministratore può far eseguire lavori urgenti senza assemblea?"
     a: "Sì, per lavori di manutenzione straordinaria aventi carattere urgente, ma deve riferirne alla prima assemblea (art. 1135 c.c.)."
   - q: "Cosa faccio se c'è un guasto serio?"
     a: "Segnalalo subito attraverso i canali dello studio, con foto se possibile: attiviamo il fornitore e teniamo aggiornati i condomini."
+seo_title: "Segnalazione guasti e pronto intervento"
+seo_description: "Guasti in condominio: canali chiari per segnalare, presa in carico rapida e fornitori giusti per ascensore, impianti, perdite e parti comuni."
 ---
 
 Quando si rompe qualcosa nelle parti comuni, la differenza la fa la rapidità con cui qualcuno prende in carico il problema. L'amministratore attiva il fornitore giusto e tiene informati i condomini.

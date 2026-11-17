@@ -8,13 +8,13 @@ immagine: "/assets/images/servizi/gestione-manutenzioni-appalti-e-fornitori.webp
 lang: en
 locale: en
 excerpt: "Several quotes compared, written contracts and supervision of works on facades, roofs, systems and common areas."
-seo_title: "Maintenance, contracts and suppliers | Rome"
-seo_description: "Several quotes compared, written contracts and supervision of works on facades, roofs, systems and common areas."
 faq:
   - q: "Who chooses the contractor?"
     a: "The owners' meeting decides, on the manager's proposal after quotes have been collected and compared."
   - q: "Who supervises the works?"
     a: "The manager follows the site and, when needed, relies on a licensed technician for site management and acceptance."
+seo_title: "Maintenance and contractors"
+seo_description: "Condominium maintenance: several quotes compared, written contracts and supervision of works on facades, roofs, systems and common areas."
 ---
 
 We collect the quotes, compare them item by item and present them to the meeting. You and the owners choose the contractor; we check the works are done as promised.

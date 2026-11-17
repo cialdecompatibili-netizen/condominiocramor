@@ -9,8 +9,8 @@ categories:
   - Guide
 header:
   teaser: /assets/images/posts/assemblea-di-condominio-convocazione-verbale-e-impugnazione.webp
-seo_title: "Assemblea di condominio: convocazione, verbale e impugnazione"
-seo_description: "Preavviso, verbale e tempi per contestare una delibera: le regole essenziali in poche righe."
+seo_title: "Assemblea di condominio: convocazione e verbale"
+seo_description: "Assemblea di condominio: preavviso di convocazione, verbale e tempi per impugnare una delibera. Le regole essenziali in poche righe."
 ---
 <img src="{{ '/assets/images/posts/assemblea-di-condominio-convocazione-verbale-e-impugnazione.webp' | relative_url }}" alt="Assemblea di condominio: convocazione, verbale e impugnazione" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

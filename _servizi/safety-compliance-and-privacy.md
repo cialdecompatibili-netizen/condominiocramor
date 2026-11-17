@@ -8,13 +8,13 @@ immagine: "/assets/images/servizi/sicurezza-adempimenti-e-privacy.webp"
 lang: en
 locale: en
 excerpt: "Calendar of periodic checks, certificates, insurance, privacy and CCTV: the building in order and compliant."
-seo_title: "Safety, compliance and privacy | Rome"
-seo_description: "Calendar of periodic checks, certificates, insurance, privacy and CCTV: the building in order and compliant."
 faq:
   - q: "Who handles lift inspections?"
     a: "Periodic checks must be assigned to licensed bodies: the manager schedules them and keeps the records."
   - q: "Can a camera be installed in the common areas?"
     a: "Yes, with a meeting resolution (art. 1122-ter of the Italian Civil Code) and in line with privacy rules: we assess each case."
+seo_title: "Safety, compliance and privacy"
+seo_description: "Periodic checks, certificates, insurance, privacy and CCTV: a schedule that keeps the building in order and compliant."
 ---
 
 Lifts, systems, insurance, owners' data and cameras: many obligations, each with a deadline. A tidy calendar avoids penalties and surprises.

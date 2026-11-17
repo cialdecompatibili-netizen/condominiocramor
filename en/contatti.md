@@ -8,7 +8,7 @@ tr: tradotto
 tr_hash: e563ea
 permalink: /en/contact/
 seo_title: "Contact and free quote"
-seo_description: "Request a free condominium administration quote from Condominio Cramor, in Rome."
+seo_description: "Contact Condominio Cramor for a free quote on condominium administration in Rome: tell us about your building and write to us."
 ---
 
 {%- comment -%}

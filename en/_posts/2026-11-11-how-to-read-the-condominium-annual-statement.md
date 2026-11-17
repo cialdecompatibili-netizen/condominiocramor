@@ -10,9 +10,9 @@ categories:
 header:
   teaser: /assets/images/posts/come-leggere-il-rendiconto-condominiale.webp
 tr: tradotto
-seo_title: "How to read the condominium annual statement without getting lost"
-seo_description: "The parts of the statement, what to check and how to ask for clarification before the meeting."
 tr_hash: 1hdbd26
+seo_title: "How to read the condominium statement"
+seo_description: "How to read the condominium annual statement: its parts, what to check and how to ask for clarification before the meeting."
 ---
 <img src="{{ '/assets/images/posts/come-leggere-il-rendiconto-condominiale.webp' | relative_url }}" alt="How to read the condominium annual statement without getting lost" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

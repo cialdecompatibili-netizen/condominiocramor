@@ -8,13 +8,13 @@ immagine: "/assets/images/servizi/assemblee-condominiali-anche-online.webp"
 lang: en
 locale: en
 excerpt: "Notice, agenda, proxies, minutes and follow-up of decisions, with the option of meeting by video call."
-seo_title: "Owners' meetings, also online | Rome"
-seo_description: "Notice, agenda, proxies, minutes and follow-up of decisions, with the option of meeting by video call."
 faq:
   - q: "How much notice is required?"
     a: "The notice must be given at least five days before the meeting (art. 66 of the implementing provisions)."
   - q: "Can the meeting be held online?"
     a: "Under certain conditions yes, for example if the building rules allow it or the owners authorise it: we check each case."
+seo_title: "Owners' meetings, also online"
+seo_description: "Notice, agenda, proxies and minutes: we organise condominium owners' meetings, also by video call, and follow up on every decision."
 ---
 
 The meeting is where owners decide. Good preparation (clear documents, a precise agenda, quotes compared) makes meetings shorter and decisions stronger.

@@ -9,8 +9,8 @@ categories:
   - Guide
 header:
   teaser: /assets/images/posts/come-cambiare-amministratore-di-condominio.webp
-seo_title: "Come cambiare amministratore di condominio, passo dopo passo"
-seo_description: "Revoca, nuova nomina e passaggio di consegne: cosa fare, in che ordine e quali documenti chiedere."
+seo_title: "Come cambiare amministratore di condominio"
+seo_description: "Come cambiare amministratore di condominio: revoca, nuova nomina e passaggio di consegne, in che ordine procedere e quali documenti chiedere."
 ---
 <img src="{{ '/assets/images/posts/come-cambiare-amministratore-di-condominio.webp' | relative_url }}" alt="Come cambiare amministratore di condominio, passo dopo passo" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

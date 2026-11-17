@@ -9,8 +9,8 @@ categories:
   - Guide
 header:
   teaser: /assets/images/posts/amministratore-di-condominio-obblighi-e-requisiti.webp
-seo_title: "Amministratore di condominio: obblighi, requisiti e conto corrente"
-seo_description: "Cosa deve fare un amministratore e cosa puoi aspettarti da lui: registri, conto corrente, rendiconto."
+seo_title: "Amministratore di condominio: obblighi"
+seo_description: "Cosa deve fare un amministratore di condominio: requisiti, registri, conto corrente dedicato e rendiconto. Cosa puoi aspettarti e cosa puoi chiedere."
 ---
 <img src="{{ '/assets/images/posts/amministratore-di-condominio-obblighi-e-requisiti.webp' | relative_url }}" alt="Amministratore di condominio: obblighi, requisiti e conto corrente" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

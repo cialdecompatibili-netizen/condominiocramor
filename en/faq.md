@@ -4,12 +4,12 @@ title: "Condominium FAQ"
 permalink: /en/faq/
 ref: faq
 author_profile: false
-seo_title: "Condominium FAQ"
-seo_description: "Answers on the manager, meetings, statements, arrears, urgent works and changing manager."
 lang: en
 locale: en
 tr: tradotto
 tr_hash: 18rs0bv
+seo_title: "Condominium FAQ"
+seo_description: "Answers to the most common questions about condominium managers, owners' meetings, annual accounts, unpaid dues and works."
 ---
 
 Answers to the most frequent questions on administration, meetings, statements, defaulters and works in a building. For your specific case, write to us.

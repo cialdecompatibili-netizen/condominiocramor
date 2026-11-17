@@ -10,9 +10,9 @@ categories:
 header:
   teaser: /assets/images/posts/lavori-urgenti-in-condominio-chi-decide.webp
 tr: tradotto
-seo_title: "Urgent works in a condominium: who decides and what can be done now"
-seo_description: "When the manager can act without a meeting and how to keep owners informed."
 tr_hash: 12ystai
+seo_title: "Urgent condominium works: who decides"
+seo_description: "Urgent works in a condominium: when the manager can act without a meeting, what can be done right away and how to keep owners informed."
 ---
 <img src="{{ '/assets/images/posts/lavori-urgenti-in-condominio-chi-decide.webp' | relative_url }}" alt="Urgent works in a condominium: who decides and what can be done now" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

@@ -10,7 +10,7 @@ locale: en
 tr: tradotto
 tr_hash: e2f087
 permalink: /en/blog/
-seo_title: "Blog: guides on administration, meetings and condominium accounts"
-seo_description: "Practical guides on the manager, owners meetings, annual statement, arrears and building works, by Condominio Cramor."
+seo_title: "Condominium blog: practical guides"
+seo_description: "Practical guides for owners and managers: annual accounts, owners' meetings, unpaid dues, works and changing manager, explained clearly."
 ---
 {% include lista-categoria.html %}

@@ -9,8 +9,8 @@ categories:
   - Guide
 header:
   teaser: /assets/images/posts/come-leggere-il-rendiconto-condominiale.webp
-seo_title: "Come leggere il rendiconto condominiale senza perdersi"
-seo_description: "Le parti del rendiconto, cosa controllare e come chiedere chiarimenti prima dell'assemblea."
+seo_title: "Come leggere il rendiconto condominiale"
+seo_description: "Come leggere il rendiconto condominiale: le parti del documento, cosa controllare e come chiedere chiarimenti prima dell'assemblea."
 ---
 <img src="{{ '/assets/images/posts/come-leggere-il-rendiconto-condominiale.webp' | relative_url }}" alt="Come leggere il rendiconto condominiale senza perdersi" style="width:100%;border-radius:10px;margin:0 0 1.2rem">
 

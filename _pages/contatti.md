@@ -4,7 +4,7 @@ layout: single
 title: "Contatti"
 permalink: /contatti/
 seo_title: "Contatti e preventivo gratuito"
-seo_description: "Richiedi un preventivo gratuito di amministrazione condominiale a Condominio Cramor, a Roma."
+seo_description: "Contatta Condominio Cramor per un preventivo gratuito di amministrazione condominiale a Roma: descrivici il tuo condominio e scrivici."
 ---
 
 {%- comment -%}
