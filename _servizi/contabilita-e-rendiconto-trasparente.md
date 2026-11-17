@@ -11,6 +11,12 @@ faq:
     a: "Sì: i condomini possono prendere visione dei documenti giustificativi di spesa e ottenerne copia a proprie spese (art. 1130-bis c.c.)."
   - q: "Entro quando va approvato il rendiconto?"
     a: "L'amministratore deve convocare l'assemblea per approvarlo entro 180 giorni dalla chiusura dell'esercizio (art. 1130 c.c.)."
+  - q: "Entro quando va approvato il rendiconto?"
+    a: "Va presentato all'assemblea entro centottanta giorni dalla chiusura dell'esercizio. Due anni senza convocare l'assemblea per il rendiconto sono una grave irregolarità."
+  - q: "Posso controllare le fatture?"
+    a: "Sì: puoi consultare i documenti giustificativi di spesa in ogni tempo ed estrarne copia a tue spese (art. 1130-bis c.c.)."
+  - q: "Cos'è il fondo speciale?"
+    a: "È un fondo costituito dall'assemblea per i lavori straordinari, pari all'importo dei lavori, per pagare l'impresa a stato avanzamento (art. 1135 c.c.)."
 seo_title: "Rendiconto condominiale trasparente"
 seo_description: "Bilancio preventivo, rendiconto annuale, riparto spese e piano rate chiari, con i documenti a disposizione di ogni condomino."
 ---
@@ -34,6 +40,19 @@ Il rendiconto deve essere chiaro e verificabile. Ogni condomino deve poter capir
 
 ## Cosa ottieni
 Documenti chiari, comunicazioni tempestive e un referente dedicato. Ti aiutiamo a preparare ogni decisione da portare in assemblea, con preventivi voce per voce e relazioni facili da leggere.
+
+## Cosa devi sapere
+- **Cos'è il rendiconto**: è composto da registro di contabilità, riepilogo finanziario e nota sintetica esplicativa della gestione, con i rapporti in corso e le questioni pendenti (art. 1130-bis c.c.).
+- **Registro di contabilità**: le annotazioni si fanno in ordine cronologico, entro trenta giorni da quando le operazioni sono eseguite.
+- **Preventivo e consuntivo**: a inizio anno si approva un preventivo delle spese; a fine anno il rendiconto confronta quanto speso con quanto previsto.
+- **Termini**: il rendiconto va presentato all'assemblea entro centottanta giorni dalla chiusura dell'esercizio.
+- **Fondo speciale**: per i lavori straordinari l'assemblea costituisce un fondo pari all'importo dei lavori (art. 1135 c.c.), per pagare l'impresa a stato avanzamento senza ritardi.
+- **Riparto**: le spese si ripartiscono in base ai millesimi e alla legge: per esempio le spese di conservazione in proporzione al valore, quelle d'uso in base all'uso (art. 1123 c.c.).
+
+## Errori da evitare
+- Mescolare spese ordinarie e straordinarie nello stesso prospetto.
+- Presentare un rendiconto senza saldi di cassa verificabili sul conto corrente.
+- Non indicare le cause in corso e i crediti verso i morosi nella nota esplicativa.
 
 ## Come lavoriamo
 1. Colloquio e analisi dei documenti

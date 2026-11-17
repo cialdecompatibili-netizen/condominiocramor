@@ -11,6 +11,12 @@ faq:
     a: "Sì, per lavori di manutenzione straordinaria aventi carattere urgente, ma deve riferirne alla prima assemblea (art. 1135 c.c.)."
   - q: "Cosa faccio se c'è un guasto serio?"
     a: "Segnalalo subito attraverso i canali dello studio, con foto se possibile: attiviamo il fornitore e teniamo aggiornati i condomini."
+  - q: "Chi paga i danni da un'infiltrazione dal lastrico?"
+    a: "Dipende dalla causa e dalla proprietà. Le spese di riparazione del lastrico si ripartiscono tra uso esclusivo e condomini (art. 1126 c.c.). Serve un sopralluogo tecnico."
+  - q: "In quanto tempo va denunciato un sinistro?"
+    a: "L'avviso all'assicurazione va dato entro tre giorni da quando si ha conoscenza del fatto (art. 1913 c.c.), salvo diversa clausola di polizza."
+  - q: "L'amministratore può far riparare senza assemblea?"
+    a: "Sì, per interventi urgenti, riferendone alla prima assemblea (art. 1135 c.c.)."
 seo_title: "Segnalazione guasti e pronto intervento"
 seo_description: "Guasti in condominio: canali chiari per segnalare, presa in carico rapida e fornitori giusti per ascensore, impianti, perdite e parti comuni."
 ---
@@ -34,6 +40,19 @@ Quando si rompe qualcosa nelle parti comuni, la differenza la fa la rapidità co
 
 ## Cosa ottieni
 Documenti chiari, comunicazioni tempestive e un referente dedicato. Ti aiutiamo a preparare ogni decisione da portare in assemblea, con preventivi voce per voce e relazioni facili da leggere.
+
+## Cosa devi sapere
+- **Danni da parti comuni**: il condominio risponde dei danni causati da cose in custodia, come tetto, facciata o impianti comuni, se non prova il caso fortuito (art. 2051 c.c.).
+- **Lastrico solare**: le spese di riparazione si ripartiscono in parte tra chi lo usa in via esclusiva e in parte tra i condomini cui serve (art. 1126 c.c.).
+- **Interventi urgenti**: l'amministratore può ordinarli senza assemblea e deve riferirne alla prima assemblea (art. 1135 c.c.).
+- **Assicurazione**: la polizza globale fabbricato copre molti danni, ma l'avviso del sinistro va dato entro tre giorni (art. 1913 c.c.), salvo termini diversi in polizza.
+- **Come segnalare**: luogo, ora, descrizione e foto aiutano a scegliere subito l'intervento giusto e a documentare il danno.
+- **Priorità**: acqua, gas, elettricità e sicurezza delle persone si trattano prima; il resto si pianifica.
+
+## Errori da evitare
+- Segnalare a voce o in chat senza foto e senza data.
+- Aspettare che "si risolva da sé" una piccola infiltrazione: il danno cresce e la responsabilità si allarga.
+- Dimenticare di avvisare l'assicurazione nei termini della polizza.
 
 ## Come lavoriamo
 1. Colloquio e analisi dei documenti

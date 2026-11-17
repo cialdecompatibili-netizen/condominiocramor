@@ -13,6 +13,12 @@ faq:
     a: "Yes, for urgent extraordinary maintenance, but he or she must report it to the next meeting (art. 1135 of the Italian Civil Code)."
   - q: "What do I do if there is a serious fault?"
     a: "Report it straight away through the office channels, with a photo if possible: we activate the supplier and keep owners updated."
+  - q: "Who pays for damage from a roof terrace leak?"
+    a: "It depends on the cause and ownership. Terrace repair costs are shared between exclusive use and owners (art. 1126). A technical inspection is needed."
+  - q: "How soon must a claim be reported?"
+    a: "Notice to the insurer must be given within three days of becoming aware (art. 1913), unless the policy says otherwise."
+  - q: "Can the manager have repairs done without a meeting?"
+    a: "Yes, for urgent work, reporting to the next meeting (art. 1135)."
 seo_title: "Fault reporting and emergency response"
 seo_description: "Clear channels to report faults, quick handling and the right suppliers for lifts, systems, leaks and common areas."
 ---
@@ -36,6 +42,19 @@ When something breaks in the common areas, speed makes the difference. The manag
 
 ## What you get
 Clear documents, timely communication and a dedicated contact. We help you prepare every decision for the owners' meeting, with item-by-item quotes and easy-to-read reports.
+
+## What you should know
+- **Damage from common parts**: the building is liable for damage caused by things in its custody, such as roof, facade or shared systems, unless it proves chance events (art. 2051).
+- **Flat roof terrace**: repair costs are shared partly by whoever uses it exclusively and partly by the owners it serves (art. 1126).
+- **Urgent repairs**: the manager may order them without a meeting and must report to the next meeting (art. 1135).
+- **Insurance**: the building's all-risks policy covers many damages, but the claim notice must be given within three days (art. 1913), unless the policy sets other terms.
+- **How to report**: place, time, description and photos help choose the right intervention and document the damage.
+- **Priorities**: water, gas, electricity and people's safety come first; the rest is planned.
+
+## Mistakes to avoid
+- Reporting by voice or chat with no photos and no date.
+- Waiting for a small leak to "sort itself out": the damage grows and so does liability.
+- Forgetting to notify the insurer within the policy's terms.
 
 ## How we work
 1. Meeting and review of documents

@@ -13,6 +13,12 @@ faq:
     a: "Yes: an immediately enforceable payment order can be obtained without the meeting's authorisation (art. 63 of the implementing provisions)."
   - q: "What happens after six months of arrears?"
     a: "The manager may suspend the defaulting owner from separable common services (art. 63 of the implementing provisions)."
+  - q: "Do owners who pay risk covering for defaulters?"
+    a: "Creditors must first pursue defaulters. But if cash runs short, the building is still exposed: that is why acting early matters."
+  - q: "Is mediation needed before a payment order?"
+    a: "No: mandatory mediation is not required beforehand for a payment order."
+  - q: "Can a repayment plan be agreed?"
+    a: "Yes, in writing, with clear deadlines and consequences if it is not respected. If it is not, legal action follows."
 seo_title: "Unpaid dues recovery"
 seo_description: "Unpaid condominium dues: reminders, repayment plans and legal action, so that defaulters do not burden the other owners."
 ---
@@ -36,6 +42,19 @@ When some owners do not pay, the burden falls on those who do and on suppliers. 
 
 ## What you get
 Clear documents, timely communication and a dedicated contact. We help you prepare every decision for the owners' meeting, with item-by-item quotes and easy-to-read reports.
+
+## What you should know
+- **Payment order**: the manager can request it without the meeting's authorisation and it is immediately enforceable (art. 63 of the implementing provisions). Prior mediation is not required for this procedure.
+- **Suspension of services**: if arrears last at least six months, the manager may suspend use of common services capable of separate enjoyment (art. 63).
+- **The building's creditors**: unpaid suppliers must first claim from defaulting owners. Only then may they turn to the others (art. 63).
+- **List of defaulters**: the manager gives it to creditors who ask; it is not posted on a notice board.
+- **Interest**: interest may accrue on sums due, under the law and the building rules.
+- **Timing**: the longer it takes, the harder recovery gets. Written reminder, repayment plan and, if needed, legal action should be decided within weeks.
+
+## Mistakes to avoid
+- Waiting for the yearly meeting before chasing non-payers.
+- Letting suppliers advance money for long with no plan to recover credits.
+- Posting the defaulters list on a notice board or in a group chat: it breaches privacy.
 
 ## How we work
 1. Meeting and review of documents
