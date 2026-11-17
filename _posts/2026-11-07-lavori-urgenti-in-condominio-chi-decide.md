@@ -25,6 +25,21 @@ L'amministratore può ordinare lavori di manutenzione straordinaria aventi carat
 3. **Informa** i condomini sullo stato dell'intervento.
 4. **Riferisci** in assemblea e documenta le spese.
 
+## Cosa si intende per urgente
+È urgente ciò che non può aspettare l'assemblea senza causare danni a persone, cose o al condominio: una perdita d'acqua, un cornicione che si stacca, un guasto all'impianto elettrico o all'ascensore con rischio per le persone.
+
+## Chi può decidere
+- L'amministratore può ordinare lavori urgenti di manutenzione straordinaria senza assemblea, ma deve riferirne subito all'assemblea (art. 1135 c.c.). Se le spese sono rilevanti, è bene convocarla in fretta.
+- Un singolo condomino può anticipare la spesa solo se l'intervento era davvero urgente. Altrimenti non ha diritto al rimborso (art. 1134 c.c.).
+
+## Cosa fare in pratica
+1. Mettere in sicurezza (chiudere l'acqua, transennare, staccare l'impianto).
+2. Documentare con foto, data e ora.
+3. Chiamare un tecnico e avvisare l'assicurazione entro tre giorni (art. 1913 c.c.), salvo termini diversi in polizza.
+4. Far ratificare la spesa nella prima assemblea e ripartirla secondo i millesimi.
+
+Il confine tra urgente e rinviabile è la parte difficile: in caso di dubbio è meglio un intervento minimo di messa in sicurezza e poi un'assemblea rapida per il resto.
+
 [Approfondisci il servizio]({{ '/servizi/segnalazione-guasti-e-pronto-intervento/' | relative_url }})
 
 [Richiedi un preventivo gratuito]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

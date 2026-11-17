@@ -25,6 +25,16 @@ Il rendiconto annuale è composto da un registro di contabilità, un riepilogo f
 ## Come chiedere chiarimenti
 I condomini possono consultare i documenti giustificativi e farne copia a proprie spese. Meglio farlo prima dell'assemblea, per arrivare con domande precise.
 
+## Come leggerlo in cinque mosse
+1. **Confronta con il preventivo**: scarti grandi, senza spiegazione nella nota, vanno chiariti in assemblea.
+2. **Controlla la cassa**: il saldo finale deve coincidere con l'estratto conto del conto intestato al condominio.
+3. **Verifica il riparto**: ogni spesa va divisa con la tabella millesimale giusta (proprietà, scale, ascensore, riscaldamento).
+4. **Guarda fondi e lavori**: i fondi speciali per lavori straordinari vanno tenuti distinti dalla gestione ordinaria.
+5. **Leggi la nota sintetica**: elenca rapporti in corso con fornitori e questioni pendenti, come cause e morosi.
+
+## I tuoi diritti
+Puoi consultare in ogni tempo i documenti giustificativi di spesa ed estrarne copia a tue spese (art. 1130-bis c.c.). Se il rendiconto non è chiaro, chiedi chiarimenti scritti prima dell'assemblea. Se non viene presentato per due anni consecutivi, è una grave irregolarità che consente di chiedere la revoca.
+
 [Approfondisci il servizio]({{ '/servizi/contabilita-e-rendiconto-trasparente/' | relative_url }})
 
 [Richiedi un preventivo gratuito]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

@@ -25,6 +25,16 @@ Cambiare amministratore è una decisione dell'assemblea, ma conviene prepararla 
 ## Cosa chiedere
 Registri, rendiconti, contratti in corso, estratti conto bancari, elenco dei condomini e situazione dei morosi.
 
+## Il piano dei primi trenta giorni
+- **Prima dell'assemblea**: raccogli due o tre preventivi analitici, verifica i requisiti e la formazione dei candidati e prepara l'ordine del giorno con revoca o mancato rinnovo e nomina.
+- **Il giorno della nomina**: il verbale indica compenso, durata (un anno, rinnovabile) e il mandato di ritirare i documenti.
+- **Entro pochi giorni**: lettera all'amministratore uscente con elenco dei documenti da consegnare; richiesta all'ex amministratore dei saldi bancari.
+- **Prima settimana**: aggiornamento della banca (delegati alla firma, accesso online), comunicazione ai fornitori e all'Agenzia delle Entrate.
+- **Prime settimane**: ricognizione di contratti, scadenze delle verifiche, polizze, cause in corso e crediti verso i morosi.
+
+## Il verbale di consegna
+Redigi un verbale firmato da entrambi, con elenco di ciò che viene consegnato. Se qualcosa manca, mettilo per iscritto subito: ti serve per chiederlo in seguito.
+
 [Approfondisci il servizio]({{ '/servizi/cambio-amministratore-e-passaggio-consegne/' | relative_url }})
 
 [Richiedi un preventivo gratuito]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

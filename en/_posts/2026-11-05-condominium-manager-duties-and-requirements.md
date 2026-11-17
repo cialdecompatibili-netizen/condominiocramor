@@ -10,7 +10,7 @@ categories:
 header:
   teaser: /assets/images/posts/amministratore-di-condominio-obblighi-e-requisiti.webp
 tr: tradotto
-tr_hash: war0n4
+tr_hash: 1p4cml8
 seo_title: "Condominium manager: duties"
 seo_description: "What a condominium manager must do: requirements, registers, dedicated bank account and annual statement. What you can expect and ask for."
 ---
@@ -27,6 +27,24 @@ A professional manager has precise duties set by the Civil Code.
 
 ## Requirements
 Managers who are not owners must hold a secondary-school diploma, have no disqualifying convictions and attend initial and ongoing training (art. 71-bis of the implementing provisions).
+
+## The requirements, one by one
+To act as a manager the law requires (art. 71-bis of the implementing provisions):
+- enjoying civil rights and not having been convicted of certain offences (against the public administration, public faith, property and others) or being subject to preventive measures;
+- not being disqualified and not appearing on the register of protested bills;
+- holding a secondary school diploma;
+- having completed initial training (72 hours) and doing yearly refresher training (15 hours).
+
+Training is not required for someone who manages the building where they live. If a manager loses a requirement, the appointment ends and any owner can call a meeting to appoint a replacement.
+
+## What you can ask before appointing
+- Training and refresher certificates for the current year.
+- Professional liability insurance: the meeting may require it as a condition of appointment.
+- How many buildings they manage and who at their office will follow yours.
+- The itemised fee, which must be stated on pain of nullity.
+
+## What they must do every day
+Keep the registers, open an account in the building's name, call the yearly meeting, present the statement, carry out resolutions, collect contributions and act against defaulters. From day one they must display their name and contact details at the entrance.
 
 [Learn more about the service]({{ '/en/services/ordinary-condominium-administration/' | relative_url }})
 

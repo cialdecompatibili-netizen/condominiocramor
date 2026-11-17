@@ -25,6 +25,22 @@ Non esiste un prezzo unico: il compenso dipende dal condominio. L'importante è 
 ## Cosa pretendere
 Il compenso deve essere indicato in modo analitico al momento della nomina e del rinnovo, a pena di nullità (art. 1129 c.c.). Chiedi un preventivo voce per voce, IVA inclusa, con l'elenco di ciò che si paga a parte.
 
+## Le voci che fanno la differenza
+Oltre al compenso base, chiedi se sono incluse o a parte:
+- assemblee straordinarie o fuori orario;
+- sopralluoghi e visite periodiche;
+- pratiche fiscali del condominio come sostituto d'imposta (certificazioni dei compensi pagati ai fornitori, versamenti e dichiarazioni);
+- gestione di lavori straordinari, di solito con una percentuale sull'importo;
+- recupero crediti e rapporti con il legale;
+- gestione dei sinistri con l'assicurazione;
+- apertura dell'anagrafe condominiale e passaggio di consegne.
+
+## Indicazione di mercato
+Sui portali di preventivi le stime per un amministratore si aggirano intorno a 50-70 euro per unità all'anno. È un valore indicativo: cambia con città, dimensioni e servizi, e non è il nostro listino.
+
+## Il confronto giusto
+Confronta i preventivi sullo stesso perimetro: stessi servizi, stesse assemblee, stessa reperibilità. Un compenso basso con molti extra, e una percentuale alta sui lavori, spesso costa più di uno completo. Una volta approvato, il compenso non si cambia a metà anno senza una nuova delibera.
+
 [Approfondisci il servizio]({{ '/servizi/amministrazione-ordinaria-del-condominio/' | relative_url }})
 
 [Richiedi un preventivo gratuito]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

@@ -26,6 +26,16 @@ Scegliere l'impresa giusta fa la differenza tra un lavoro riuscito e anni di con
 ## Chi decide
 La scelta spetta all'assemblea, su proposta dell'amministratore.
 
+## Come scegliere l'impresa senza pentirsi
+1. **Capitolato unico**: dai a tutte le imprese lo stesso elenco di lavorazioni, così i preventivi si confrontano davvero.
+2. **Verifica dei documenti**: visura camerale, DURC (regolarità contributiva), polizza di responsabilità civile e idoneità tecnico-professionale. Il committente, cioè il condominio, ha l'obbligo di verificarla (D.Lgs. 81/2008).
+3. **Sicurezza**: se in cantiere lavorano più imprese serve un coordinatore per la sicurezza. Per ponteggi e lavori in quota servono abilitazioni specifiche.
+4. **Contratto scritto**: importo, tempi, penali per ritardo, pagamenti a stato avanzamento, una trattenuta a garanzia fino al collaudo e referente di cantiere.
+5. **Direzione lavori**: per interventi su facciate, tetto o strutture è bene affidarla a un tecnico indipendente dall'impresa.
+
+## Dopo i lavori
+Il difetto va denunciato entro sessanta giorni dalla scoperta (art. 1667 c.c.). Per gravi difetti di edifici l'impresa risponde per dieci anni (art. 1669 c.c.). Conserva certificazioni, fotografie del cantiere e dichiarazioni di conformità: servono per garanzie e bonus fiscali.
+
 [Approfondisci il servizio]({{ '/servizi/gestione-manutenzioni-appalti-e-fornitori/' | relative_url }})
 
 [Richiedi un preventivo gratuito]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

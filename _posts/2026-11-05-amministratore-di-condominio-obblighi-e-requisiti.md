@@ -26,6 +26,24 @@ Un amministratore professionista ha compiti precisi, definiti dal codice civile.
 ## Requisiti
 Chi non è condomino deve avere diploma di scuola secondaria, assenza di certe condanne e aver frequentato corsi di formazione iniziale e periodica (art. 71-bis disp. att. c.c.).
 
+## I requisiti, uno per uno
+Per fare l'amministratore la legge chiede (art. 71-bis disp. att. c.c.):
+- godere dei diritti civili e non essere stati condannati per certi reati (contro la pubblica amministrazione, la fede pubblica, il patrimonio e altri) né essere soggetti a misure di prevenzione;
+- non essere interdetti o inabilitati e non risultare annotati nell'elenco dei protesti cambiari;
+- avere un diploma di scuola secondaria di secondo grado;
+- aver frequentato un corso di formazione iniziale (72 ore) e fare ogni anno un aggiornamento (15 ore).
+
+La formazione non è richiesta a chi amministra il condominio in cui abita. Se l'amministratore perde un requisito, cessa dall'incarico e ogni condomino può convocare l'assemblea per nominare il sostituto.
+
+## Cosa puoi chiedergli prima di nominarlo
+- Gli attestati di formazione e di aggiornamento dell'anno in corso.
+- La polizza di responsabilità civile professionale: l'assemblea può richiederla come condizione della nomina.
+- Quanti condomini segue e chi del suo studio seguirà il tuo.
+- Il compenso analitico, voce per voce, che va indicato a pena di nullità.
+
+## Cosa deve fare ogni giorno
+Tenere i registri, aprire un conto intestato al condominio, convocare l'assemblea annuale, presentare il rendiconto, eseguire le delibere, riscuotere i contributi e agire contro i morosi. Dal primo giorno deve esporre nome e recapiti nel luogo di accesso al condominio.
+
 [Approfondisci il servizio]({{ '/servizi/amministrazione-ordinaria-del-condominio/' | relative_url }})
 
 [Richiedi un preventivo gratuito]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

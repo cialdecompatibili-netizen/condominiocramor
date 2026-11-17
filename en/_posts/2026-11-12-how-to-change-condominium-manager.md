@@ -10,7 +10,7 @@ categories:
 header:
   teaser: /assets/images/posts/come-cambiare-amministratore-di-condominio.webp
 tr: tradotto
-tr_hash: 4vozvh
+tr_hash: diz4e
 seo_title: "How to change condominium manager"
 seo_description: "How to change condominium manager: dismissal, new appointment and handover, in which order to proceed and which documents to ask for."
 ---
@@ -26,6 +26,16 @@ Changing manager is a decision for the owners' meeting, but it pays to prepare w
 
 ## What to ask for
 Registers, statements, current contracts, bank statements, the list of owners and the position of defaulters.
+
+## The first thirty days plan
+- **Before the meeting**: collect two or three itemised quotes, check candidates' requirements and training, and prepare the agenda with removal or non-renewal and appointment.
+- **Appointment day**: the minutes state the fee, term (one year, renewable) and the mandate to collect documents.
+- **Within days**: letter to the outgoing manager listing the documents to hand over; request for bank balances.
+- **First week**: update the bank (signatories, online access), notify suppliers and the tax agency.
+- **First weeks**: review contracts, inspection deadlines, policies, pending cases and credits against defaulters.
+
+## The handover record
+Draw up a record signed by both, listing what is handed over. If something is missing, put it in writing right away: you need it to ask for it later.
 
 [Learn more about the service]({{ '/en/services/changing-manager-and-handover/' | relative_url }})
 

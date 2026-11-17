@@ -10,7 +10,7 @@ categories:
 header:
   teaser: /assets/images/posts/quanto-costa-un-amministratore-di-condominio-cosa-incide.webp
 tr: tradotto
-tr_hash: 1icqyog
+tr_hash: 1vedyi0
 seo_title: "How much does a condominium manager cost"
 seo_description: "How much does a condominium manager cost? What affects the fee: building size, included services and extras, and how to read a quote."
 ---
@@ -26,6 +26,22 @@ There is no single price: the fee depends on the building. What matters is that 
 
 ## What to demand
 The fee must be itemised when the manager is appointed and renewed, on pain of nullity (art. 1129 of the Italian Civil Code). Ask for an item-by-item quote, VAT included, with a list of what is paid separately.
+
+## The items that make the difference
+Besides the base fee, ask whether these are included or extra:
+- extraordinary or out-of-hours meetings;
+- inspections and periodic visits;
+- the building's tax duties as withholding agent (certificates for fees paid to suppliers, payments and filings);
+- management of extraordinary works, usually with a percentage on the amount;
+- debt recovery and dealings with the lawyer;
+- handling insurance claims;
+- setting up the building register and handover.
+
+## Market indication
+On quote portals the estimates for a manager are around 50-70 euros per unit per year. It is indicative: it changes with city, size and services, and it is not our price list.
+
+## The right comparison
+Compare quotes on the same scope: same services, same meetings, same availability. A low fee with many extras, and a high percentage on works, often costs more than a complete one. Once approved, the fee cannot be changed mid-year without a new resolution.
 
 [Learn more about the service]({{ '/en/services/ordinary-condominium-administration/' | relative_url }})
 
