@@ -3,12 +3,12 @@ main:
     url: /en/
   - title: "Services"
     url: /en/services/
-  - title: "Portfolio"
-    url: /en/portfolio/
+  - title: "Residents area"
+    url: /en/residents-area/
   - title: "Blog"
     url: /en/blog/
-  - title: "Shop"
-    url: /en/shop/
+  - title: "FAQ"
+    url: /en/faq/
   - title: "About us"
     url: /en/about-us/
   - title: "Contact"

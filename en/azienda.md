@@ -9,8 +9,8 @@ locale: en
 tr: tradotto
 tr_hash: 2if1jh
 permalink: /en/about-us/
-seo_title: "About us: renovation and maintenance"
-seo_description: "About Condominio Cramor: a single point of contact for renovations, facades, waterproofing, roofs and rope-access works, from survey to completion."
+seo_title: "About us: condominium administration in Rome"
+seo_description: "About Condominio Cramor: a condominium administration office in Rome, with clear accounts, prepared meetings and a point of contact for every building."
 ---
 
 {% include render-blocks.html data="blocks_azienda" %}

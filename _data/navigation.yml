@@ -12,12 +12,12 @@ main:
     url: /
   - title: "Servizi"
     url: /servizi/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Area condomini"
+    url: /area-condomini/
   - title: "Blog"
     url: /blog/
-  - title: "Shop"
-    url: /negozio/
+  - title: "FAQ"
+    url: /faq/
   - title: "Chi siamo"
     url: /chi-siamo/
   - title: "Contatti"

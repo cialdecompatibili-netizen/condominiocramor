@@ -3,8 +3,8 @@ ref: contatti
 layout: single
 title: "Contatti"
 permalink: /contatti/
-seo_title: "Contatti e richiesta sopralluogo"
-seo_description: "Richiedi un sopralluogo e un preventivo a Condominio Cramor per ristrutturazioni, facciate, terrazzi, tetti e lavori su fune."
+seo_title: "Contatti e preventivo gratuito"
+seo_description: "Richiedi un preventivo gratuito di amministrazione condominiale a Condominio Cramor, a Roma."
 ---
 
 {%- comment -%}

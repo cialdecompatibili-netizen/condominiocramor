@@ -4,12 +4,12 @@
     "id": "chi",
     "nome": "Chi siamo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Chi siamo</p><h2 class=\"gc-h2\">Lavori fatti bene, per chi amministra e per chi abita</h2><p class=\"gc-lead\">Siamo un&#39;impresa edile specializzata nella manutenzione dei condomini a Roma e dintorni.</p><p>Lavoriamo con maestranze qualificate e un&#39;organizzazione strutturata: sopralluogo, relazione con foto, preventivo chiaro e lavori seguiti fino alla fine. Il nostro riferimento sono gli amministratori e i condomini.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Chi siamo</p><h2 class=\"gc-h2\">Uno studio di amministrazione condominiale, con metodo</h2><p class=\"gc-lead\">Condominio Cramor amministra condomini a Roma e dintorni con un metodo semplice: documenti chiari, comunicazione tempestiva e decisioni condivise in assemblea.</p><p>Usiamo strumenti digitali per l&#39;archivio e la comunicazione con i condomini e ci affidiamo a professionisti (avvocati, tecnici, commercialisti) quando il caso lo richiede.</p></div></section></div>"
   },
   {
     "id": "principi",
     "nome": "Principi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Come lavoriamo</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Maestranze qualificate</b><p>Persone competenti in ogni fase del cantiere.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Organizzazione chiara</b><p>Tempi, costi e fasi spiegati prima di iniziare.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Documentazione</b><p>Relazioni e foto per amministratore e assemblea.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Il nostro metodo</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Trasparenza</b><p>Conti leggibili e documenti sempre consultabili.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Puntualità</b><p>Scadenze, assemblee e pagamenti gestiti con calendario.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Ascolto</b><p>Ogni segnalazione viene presa in carico e aggiornata.</p></div><div class=\"gc-pl\"><span class=\"n\">4</span><b>Metodo digitale</b><p>Archivio e comunicazioni online, meno carta e meno attese.</p></div><div class=\"gc-pl\"><span class=\"n\">5</span><b>Prudenza legale</b><p>Ci appoggiamo a legali e tecnici quando serve.</p></div><div class=\"gc-pl\"><span class=\"n\">6</span><b>Controllo dei costi</b><p>Preventivi a confronto e contratti rivisti ogni anno.</p></div></div></div></section></div>"
   }
 ]

@@ -4,12 +4,12 @@
     "id": "chi",
     "nome": "Chi siamo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">About us</p><h2 class=\"gc-h2\">Work done well, for those who manage and those who live there</h2><p class=\"gc-lead\">We are a building contractor specialised in condominium maintenance in Rome and surroundings.</p><p>We work with qualified crews and a structured organisation: inspection, photo report, clear quote and works followed to the end. Our reference clients are managers and owners.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">About us</p><h2 class=\"gc-h2\">A condominium administration office, with method</h2><p class=\"gc-lead\">Condominio Cramor manages buildings in Rome and surroundings with a simple method: clear documents, timely communication and decisions shared at the owners&#39; meeting.</p><p>We use digital tools for the archive and for communication with owners, and rely on professionals (lawyers, technicians, accountants) when the case requires it.</p></div></section></div>"
   },
   {
     "id": "principi",
     "nome": "Principi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">How we work</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Qualified crews</b><p>Competent people at every stage of the site.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Clear organisation</b><p>Times, costs and phases explained before starting.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Documentation</b><p>Reports and photos for the manager and the meeting.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Our method</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Transparency</b><p>Readable accounts and documents always available.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Punctuality</b><p>Deadlines, meetings and payments managed with a calendar.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Listening</b><p>Every report is taken in charge and updated.</p></div><div class=\"gc-pl\"><span class=\"n\">4</span><b>Digital method</b><p>Online archive and communication, less paper and waiting.</p></div><div class=\"gc-pl\"><span class=\"n\">5</span><b>Legal prudence</b><p>We rely on lawyers and technicians when needed.</p></div><div class=\"gc-pl\"><span class=\"n\">6</span><b>Cost control</b><p>Quotes compared and contracts reviewed every year.</p></div></div></div></section></div>"
   }
 ]

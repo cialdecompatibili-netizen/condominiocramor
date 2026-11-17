@@ -135,3 +135,7 @@ Tutto da Desktop Commander sul PC di Mirco, con Python. Il connettore GitHub non
 - Liste immagini per img.py: in PowerShell NON costruire array con `'a'+$x,` su piu' righe (la virgola lega prima del +, esce un'unica riga e genera 1 sola foto). Scrivere i CSV da Python (make_csv.py) e passare --extra "ABSOLUTELY NO TEXT..." (la hero con scritta 'Palazzo Neri' e' stata rifatta cosi').
 - Palette: sostituire in blocco #720212 (bordeaux di edilcramor) con l'accento e rilanciare automation/genera_logo.py con i nuovi colori.
 - hero.jpg si ricava dal webp generato con PIL (convert RGB, quality 82).
+
+## Condominio Cramor = STUDIO DI AMMINISTRAZIONE condominiale (17/11/2026)
+- NON e' un'impresa edile (errore della prima versione). Contenuti generati da claudetemp\img_condominiocramor\gen_admin.py (dati_servizi_nuovo.py, dati_posts_nuovo.py), immagini con make_csv2.py + gen3.ps1. Riferimenti di legge solo verificati (art. 1129, 1130, 1130-bis, 1135, 1137, 1122-ter c.c.; art. 63, 66, 71-bis disp. att.). Da compilare col cliente: titolare, iscrizione ad associazione di categoria, telefono/WhatsApp/email, conferma servizi (area online, assemblee in videoconferenza).
+

@@ -31,3 +31,27 @@
 # Per levare una tendina: cancella il blocco, la voce torna un link normale.
 # Documentazione del funzionamento: commento in testa a _includes/masthead.html.
 # =====================================================================================
+Servizi:
+  - title: "Amministrazione ordinaria del condominio"
+    url: /servizi/amministrazione-ordinaria-del-condominio/
+  - title: "Contabilità e rendiconto trasparente"
+    url: /servizi/contabilita-e-rendiconto-trasparente/
+  - title: "Assemblee condominiali, anche online"
+    url: /servizi/assemblee-condominiali-anche-online/
+  - title: "Area riservata condomini e segnalazioni online"
+    url: /servizi/area-riservata-condomini-e-app/
+  - title: "Segnalazione guasti e pronto intervento"
+    url: /servizi/segnalazione-guasti-e-pronto-intervento/
+  - title: "Recupero crediti e gestione morosità"
+    url: /servizi/recupero-crediti-e-morosita/
+  - title: "Manutenzioni, appalti e fornitori"
+    url: /servizi/gestione-manutenzioni-appalti-e-fornitori/
+  - title: "Lavori straordinari e bonus fiscali"
+    url: /servizi/lavori-straordinari-e-bonus-fiscali/
+  - title: "Sicurezza, adempimenti e privacy"
+    url: /servizi/sicurezza-adempimenti-e-privacy/
+  - title: "Cambio amministratore e passaggio di consegne"
+    url: /servizi/cambio-amministratore-e-passaggio-consegne/
+  - divider: true
+  - title: "Tutti i servizi"
+    url: /servizi/

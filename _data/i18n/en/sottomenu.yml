@@ -1,1 +1,24 @@
-# English dropdown menus (empty = none). Each key must be IDENTICAL to a title in navigation.yml of this folder.
+Services:
+  - title: "Ordinary condominium administration"
+    url: /en/services/ordinary-condominium-administration/
+  - title: "Transparent accounting and annual statement"
+    url: /en/services/transparent-accounting-and-annual-statement/
+  - title: "Owners' meetings, also online"
+    url: /en/services/owners-meetings-also-online/
+  - title: "Residents' area and online reporting"
+    url: /en/services/residents-portal-and-app/
+  - title: "Fault reporting and emergency response"
+    url: /en/services/fault-reporting-and-emergency-response/
+  - title: "Unpaid dues recovery"
+    url: /en/services/unpaid-dues-recovery/
+  - title: "Maintenance, contracts and suppliers"
+    url: /en/services/maintenance-contracts-and-suppliers/
+  - title: "Extraordinary works and tax bonuses"
+    url: /en/services/extraordinary-works-and-tax-bonuses/
+  - title: "Safety, compliance and privacy"
+    url: /en/services/safety-compliance-and-privacy/
+  - title: "Changing manager and handover"
+    url: /en/services/changing-manager-and-handover/
+  - divider: true
+  - title: "All services"
+    url: /en/services/
