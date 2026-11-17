@@ -1,14 +1,15 @@
+
 [
   {
     "id": "chi",
-    "nome": "About us",
+    "nome": "Chi siamo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">About us</p><h2 class=\"gc-h2\">Title of the introduction</h2><p class=\"gc-lead\">Who you are, what you do and for whom.</p><p>One more paragraph about how you work.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">About us</p><h2 class=\"gc-h2\">Work done well, for those who manage and those who live there</h2><p class=\"gc-lead\">We are a building contractor specialised in condominium maintenance in Rome and surroundings.</p><p>We work with qualified crews and a structured organisation: inspection, photo report, clear quote and works followed to the end. Our reference clients are managers and owners.</p></div></section></div>"
   },
   {
     "id": "principi",
-    "nome": "Principles",
+    "nome": "Principi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">How we behave</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>First principle</b><p>Short description.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Second principle</b><p>Short description.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Third principle</b><p>Short description.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">How we work</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Qualified crews</b><p>Competent people at every stage of the site.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Clear organisation</b><p>Times, costs and phases explained before starting.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Documentation</b><p>Reports and photos for the manager and the meeting.</p></div></div></div></section></div>"
   }
 ]

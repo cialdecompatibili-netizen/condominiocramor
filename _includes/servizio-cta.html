@@ -9,7 +9,33 @@ NOTA: i testi di questo include sono in italiano fisso e NON passano da ui-text.
     testo="..."   -> frase della striscia mini (facoltativa)
   Il messaggio WhatsApp parte gia' compilato con il nome del servizio.
 {%- endcomment -%}
-{%- assign sv_msg = "Buongiorno, vorrei un sopralluogo gratuito e un preventivo per: " | append: page.title | append: "." -%}
+{%- comment -%} TESTI IN DUE LINGUE (it/en): si cambiano qui, valgono per tutte le pagine servizio. {%- endcomment -%}
+{%- if page.lang == 'en' -%}
+  {%- assign tx_msg = "Hello, I would like a free site inspection and a quote for: " -%}
+  {%- assign tx_mini = "Have a question or want a quick answer? Send us a couple of lines and a photo on WhatsApp." -%}
+  {%- assign tx_wa = "Message us on WhatsApp" -%}
+  {%- assign tx_title = "Let's talk: free site inspection, clear quote" -%}
+  {%- assign tx_body = "The fastest way is WhatsApp: tell us what needs doing and attach 2 or 3 photos of the spot (even taken from the ground). We will tell you right away how to proceed, no obligation." -%}
+  {%- assign tx_call = "Call" -%}
+  {%- assign tx_call_soon = "Call (number coming soon)" -%}
+  {%- assign tx_form = "Prefer the form?" -%}
+  {%- assign tx_form_url = "/en/contact/" -%}
+  {%- assign tx_small = "We reply within 24 hours, excluding public holidays." -%}
+  {%- assign tx_aria = "Request a quote" -%}
+{%- else -%}
+  {%- assign tx_msg = "Buongiorno, vorrei un sopralluogo gratuito e un preventivo per: " -%}
+  {%- assign tx_mini = "Hai un dubbio o vuoi una risposta rapida? Scrivici due righe e una foto su WhatsApp." -%}
+  {%- assign tx_wa = "Scrivici su WhatsApp" -%}
+  {%- assign tx_title = "Parliamone: sopralluogo gratuito, preventivo chiaro" -%}
+  {%- assign tx_body = "Il modo più veloce è WhatsApp: scrivici cosa c'è da fare e allega 2 o 3 foto del punto (anche scattate da terra). Ti diciamo subito come procedere, senza impegno." -%}
+  {%- assign tx_call = "Chiama" -%}
+  {%- assign tx_call_soon = "Chiama (numero in arrivo)" -%}
+  {%- assign tx_form = "Preferisci il modulo?" -%}
+  {%- assign tx_form_url = "/contatti/" -%}
+  {%- assign tx_small = "Rispondiamo entro 24 ore, festivi esclusi." -%}
+  {%- assign tx_aria = "Richiedi un preventivo" -%}
+{%- endif -%}
+{%- assign sv_msg = tx_msg | append: page.title | append: "." -%}
 {%- assign sv_wa = "https://wa.me/" | append: site.whatsapp | append: "?text=" | append: sv_msg | url_encode -%}
 {%- if site.whatsapp == "" -%}{%- assign sv_wa = "#" -%}{%- endif -%}
 {%- unless sv_css_done -%}
@@ -17,12 +43,17 @@ NOTA: i testi di questo include sono in italiano fisso e NON passano da ui-text.
 .sv-btn{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;padding:.8rem 1.35rem;border-radius:10px;font-weight:700;font-size:1rem;line-height:1.2;text-decoration:none !important;border:2px solid transparent;cursor:pointer}
 .sv-btn--wa{background:#25d366;color:#fff !important}
 .sv-btn--wa:hover{background:#1ebe5b}
-.sv-btn--tel{background:#fff;color:var(--t-accent,#0e7490) !important;border-color:var(--t-accent,#0e7490)}
-.sv-btn--tel:hover{background:#eef8fa}
-.sv-btn--form{background:transparent;color:var(--t-accent,#0e7490) !important;text-decoration:underline !important;border-color:transparent;padding:.8rem .6rem;font-weight:600}
-.sv-mini{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.8rem 1.2rem;margin:1.6rem 0;padding:1rem 1.2rem;background:#eef8fa;border-radius:10px}
+.sv-btn--wa{position:relative;overflow:hidden;isolation:isolate;box-shadow:0 0 0 0 rgba(37,211,102,.55);animation:sv-pulse 2.6s ease-out infinite}
+.sv-btn--wa::after{content:"";position:absolute;top:-20%;left:-60%;width:40%;height:140%;background:linear-gradient(105deg,transparent 0%,rgba(255,255,255,.75) 50%,transparent 100%);transform:skewX(-20deg);animation:sv-shine 3s ease-in-out infinite;pointer-events:none;z-index:1}
+@keyframes sv-shine{0%,55%{left:-60%}100%{left:130%}}
+@keyframes sv-pulse{0%{box-shadow:0 0 0 0 rgba(37,211,102,.55)}70%,100%{box-shadow:0 0 0 14px rgba(37,211,102,0)}}
+@media (prefers-reduced-motion:reduce){.sv-btn--wa,.sv-btn--wa::after{animation:none}}
+.sv-btn--tel{background:#fff;color:var(--t-accent,#c8102e) !important;border-color:var(--t-accent,#c8102e)}
+.sv-btn--tel:hover{background:#fbecee}
+.sv-btn--form{background:transparent;color:var(--t-accent,#c8102e) !important;text-decoration:underline !important;border-color:transparent;padding:.8rem .6rem;font-weight:600}
+.sv-mini{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.8rem 1.2rem;margin:1.6rem 0;padding:1rem 1.2rem;background:#fbecee;border-radius:10px}
 .sv-mini p{margin:0 !important;font-weight:600;flex:1 1 260px}
-.sv-cta{margin:2.4rem 0 1rem;padding:1.8rem 1.4rem;background:#eef8fa;border:1px solid rgba(138,109,59,.25);border-radius:14px;text-align:center}
+.sv-cta{margin:2.4rem 0 1rem;padding:1.8rem 1.4rem;background:#fbecee;border:1px solid rgba(138,109,59,.25);border-radius:14px;text-align:center}
 .sv-cta__title{margin:0 0 .5rem !important;font-size:1.45rem;font-weight:700;line-height:1.25}
 .sv-cta p{margin:.4rem auto !important;max-width:42rem}
 .sv-cta__row{display:flex;flex-wrap:wrap;gap:.7rem;justify-content:center;margin:1.2rem 0 .6rem}
@@ -31,7 +62,7 @@ NOTA: i testi di questo include sono in italiano fisso e NON passano da ui-text.
 .sv-faq h2{margin-bottom:.8rem !important}
 .sv-faq details{border:1px solid rgba(0,0,0,.12);border-radius:10px;padding:.2rem 1rem;margin:.5rem 0;background:#fff}
 .sv-faq summary{cursor:pointer;font-weight:700;padding:.7rem 0;line-height:1.35}
-.sv-faq details[open] summary{color:var(--t-accent,#0e7490)}
+.sv-faq details[open] summary{color:var(--t-accent,#c8102e)}
 .sv-faq details p{margin:.2rem 0 .9rem !important}
 @media (max-width:576px){.sv-cta__row .sv-btn,.sv-mini .sv-btn{width:100%}}
 </style>
@@ -39,18 +70,18 @@ NOTA: i testi di questo include sono in italiano fisso e NON passano da ui-text.
 {%- endunless -%}
 {%- if include.tipo == "mini" -%}
 <div class="sv-mini">
-  <p>{{ include.testo | default: "Hai un dubbio o vuoi una risposta rapida? Scrivici due righe e una foto su WhatsApp." }}</p>
-  <a class="sv-btn sv-btn--wa" href="{{ sv_wa }}" target="_blank" rel="noopener">Scrivici su WhatsApp</a>
+  <p>{{ include.testo | default: tx_mini }}</p>
+  <a class="sv-btn sv-btn--wa" href="{{ sv_wa }}" target="_blank" rel="noopener">{{ tx_wa }}</a>
 </div>
 {%- else -%}
-<aside class="sv-cta" aria-label="Richiedi un preventivo">
-  <p class="sv-cta__title">Parliamone: sopralluogo gratuito, preventivo chiaro</p>
-  <p>Il modo più veloce è WhatsApp: scrivici cosa c'è da fare e allega 2 o 3 foto del punto (anche scattate da terra). Ti diciamo subito come procedere, senza impegno.</p>
+<aside class="sv-cta" aria-label="{{ tx_aria }}">
+  <p class="sv-cta__title">{{ tx_title }}</p>
+  <p>{{ tx_body }}</p>
   <div class="sv-cta__row">
-    <a class="sv-btn sv-btn--wa" href="{{ sv_wa }}" target="_blank" rel="noopener">Scrivici su WhatsApp</a>
-    <a class="sv-btn sv-btn--tel" href="{% if site.whatsapp != '' %}tel:+{{ site.whatsapp }}{% else %}#{% endif %}">{% if site.whatsapp != '' %}Chiama +{{ site.whatsapp }}{% else %}Chiama (numero in arrivo){% endif %}</a>
-    <a class="sv-btn sv-btn--form" href="{{ '/contatti/' | relative_url }}">Preferisci il modulo?</a>
+    <a class="sv-btn sv-btn--wa" href="{{ sv_wa }}" target="_blank" rel="noopener">{{ tx_wa }}</a>
+    <a class="sv-btn sv-btn--tel" href="{% if site.whatsapp != '' %}tel:+{{ site.whatsapp }}{% else %}#{% endif %}">{% if site.whatsapp != '' %}{{ tx_call }} +{{ site.whatsapp }}{% else %}{{ tx_call_soon }}{% endif %}</a>
+    <a class="sv-btn sv-btn--form" href="{{ tx_form_url | relative_url }}">{{ tx_form }}</a>
   </div>
-  <p class="sv-cta__small">Rispondiamo entro 24 ore, festivi esclusi.</p>
+  <p class="sv-cta__small">{{ tx_small }}</p>
 </aside>
 {%- endif -%}

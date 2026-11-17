@@ -4,20 +4,22 @@ title: "Servizi"
 permalink: /servizi/
 ref: servizi
 author_profile: false
-seo_description: "I nostri servizi."
+seo_description: "Condominio Cramor: facciate, terrazzi, tetti, balconi, parti comuni, lavori su fune, pronto intervento e sopralluoghi per condomini a Roma."
+seo_title: "Servizi di manutenzione per condomini a Roma"
 ---
 
-Una frase che presenta i servizi. Il prezzo e le condizioni si indicano solo se sono reali.
+Interventi per condomini e amministratori: un unico interlocutore dalla valutazione iniziale al completamento delle opere.
 
-## Primo servizio
-Descrizione del primo servizio: cosa include e per chi è.
+## Per condomini, amministratori e proprietari
 
-## Secondo servizio
-Descrizione del secondo servizio.
+{% include servizi-righe.html cta="Scopri il servizio" %}
 
 ## Come si svolge un incarico
-1. **Primo passo**: descrizione.
-2. **Secondo passo**: descrizione.
-3. **Terzo passo**: descrizione.
+1. **Sopralluogo**: verifichiamo lo stato dell'edificio, anche con drone.
+2. **Report e preventivo**: foto delle criticità e proposta chiara per l'assemblea.
+3. **Realizzazione**: seguiamo ogni fase delle opere.
+4. **Documentazione**: consegniamo il riepilogo dei lavori eseguiti.
 
-[Contattaci]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}
+[Richiedi un sopralluogo]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}
+
+*Le attività tecniche riservate a professionisti abilitati e le lavorazioni specialistiche vengono svolte attraverso figure specializzate.*

@@ -1,0 +1,58 @@
+# PORTFOLIO: elenco lavori mostrati in /portfolio/ e /en/portfolio/ (include: _includes/portfolio-lista.html).
+# img = foto in assets/images/portfolio/ (ora immagini illustrative Gemini: sostituire con foto reali dei cantieri).
+# servizio = ref della pagina servizio collegata (card cliccabile). Testi per lingua in it: / en:.
+- id: terrazzo
+  img: /assets/images/portfolio/terrazzo.webp
+  servizio: servizio-impermeabilizzazione-lastrici-solari-e-terrazzi
+  it:
+    tipo: "Impermeabilizzazione"
+    titolo: "Lastrico solare condominiale: nuova impermeabilizzazione e pavimentazione"
+    testo: "Rimozione del vecchio rivestimento, guaina continua risvoltata sui muretti, scarichi riposizionati e nuova pavimentazione in gres."
+  en:
+    tipo: "Waterproofing"
+    titolo: "Condominium flat roof: new waterproofing and paving"
+    testo: "Old finish removed, continuous membrane turned up the parapets, drains repositioned and new porcelain paving laid."
+- id: facciata
+  img: /assets/images/portfolio/facciata.webp
+  servizio: servizio-ripristino-facciate-condominiali
+  it:
+    tipo: "Facciate"
+    titolo: "Ripristino della facciata di un palazzo"
+    testo: "Consolidamento degli intonaci ammalorati, trattamento di frontalini e cornici e nuova tinteggiatura, con accesso su fune dove il ponteggio non conveniva."
+  en:
+    tipo: "Facades"
+    titolo: "Restoration of an apartment building facade"
+    testo: "Damaged plaster consolidated, balcony edges and cornices treated and repainted, using rope access where scaffolding was not practical."
+- id: cornicione
+  img: /assets/images/portfolio/cornicione.webp
+  servizio: servizio-cornicioni-frontalini-e-balconi
+  it:
+    tipo: "Messa in sicurezza"
+    titolo: "Cornicione e frontalini ammalorati: messa in sicurezza e ripristino"
+    testo: "Rimozione delle parti instabili, trattamento dei ferri, ricostruzione con malta da ripristino e finitura protettiva."
+  en:
+    tipo: "Safety works"
+    titolo: "Damaged cornice and balcony edges: securing and repair"
+    testo: "Loose parts removed, rebars treated, rebuilt with repair mortar and protective finish."
+- id: tetto
+  img: /assets/images/portfolio/tetto.webp
+  servizio: servizio-tetti-coperture-e-gronde
+  it:
+    tipo: "Coperture e gronde"
+    titolo: "Manutenzione del tetto condominiale: tegole sostituite e gronde nuove"
+    testo: "Revisione del manto, sostituzione delle tegole rotte, pulizia e rifacimento di gronde e pluviali prima della stagione delle piogge."
+  en:
+    tipo: "Roofs and gutters"
+    titolo: "Condominium roof maintenance: replaced tiles and new gutters"
+    testo: "Roof covering checked, broken tiles replaced, gutters and downpipes cleaned and renewed before the rainy season."
+- id: androne
+  img: /assets/images/portfolio/androne.webp
+  servizio: servizio-androni-scale-e-parti-comuni
+  it:
+    tipo: "Parti comuni"
+    titolo: "Androne rinnovato: pavimento, pareti e illuminazione"
+    testo: "Ripristino di intonaci e pavimento, tinteggiatura e nuova illuminazione per un ingresso del condominio sicuro e decoroso."
+  en:
+    tipo: "Common areas"
+    titolo: "Renewed entrance hall: floor, walls and lighting"
+    testo: "Plaster and floor restored, painting and new lighting for a safe, decorous condominium entrance."
