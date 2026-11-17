@@ -129,3 +129,9 @@ Tutto da Desktop Commander sul PC di Mirco, con Python. Il connettore GitHub non
 - Copia del template: l'originale e' `Desktop\gemini_auto\core\prodotto.py`; se si corregge uno, allineare l'altro.
 
 - 06/11/2026 PORTFOLIO: dati in _data/portfolio.yml (it/en per lavoro, img, servizio = ref pagina servizio), card in _includes/portfolio-lista.html (stile blog, classi pf-*), pagine _pages/portfolio.md e en/portfolio.md. Foto: `python C:\Users\mirco\Desktop\gemini_auto\img.py --lista file.csv --out assets\images\portfolio` (righe id;soggetto;blog), poi guardarle. Dopo aver creato pagine EN NON lanciare allinea_hash.py en (riscrive tutti i file della lingua): usare solo il file nuovo o ripristinare con git checkout. Foto ora illustrative: sostituire con foto reali dei cantieri.
+
+## Cose che funzionano (condominiocramor, 17/11/2026)
+- Contenuti in blocco: script Python in claudetemp\img_condominiocramor (dati_servizi.py, dati_posts.py, gen_sito.py, gen_sito2.py) generano _servizi, _posts, portfolio, blocchi home/azienda IT+EN. Si modifica il testo nei dati e si rilancia, e' idempotente.
+- Liste immagini per img.py: in PowerShell NON costruire array con `'a'+$x,` su piu' righe (la virgola lega prima del +, esce un'unica riga e genera 1 sola foto). Scrivere i CSV da Python (make_csv.py) e passare --extra "ABSOLUTELY NO TEXT..." (la hero con scritta 'Palazzo Neri' e' stata rifatta cosi').
+- Palette: sostituire in blocco #720212 (bordeaux di edilcramor) con l'accento e rilanciare automation/genera_logo.py con i nuovi colori.
+- hero.jpg si ricava dal webp generato con PIL (convert RGB, quality 82).
